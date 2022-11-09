@@ -17,9 +17,8 @@ function preload() {
 
 
   //keyPressed(UP_ARROW)
-  if(keyPressed(UP_ARROW))
+  
   //fill(225)
-fill(225)
 }
 
 
